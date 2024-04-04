@@ -3,12 +3,12 @@ import './styles.css';
 import NavHeader from './components/NavHeader';
 import Homepage from './screens/Homepage';
 import Recipe from './screens/Recipe';
-import { BrowserRouter, Route, Switch, Redirect } from 'react-router-dom';
+import { HashRouter, Route, Switch, Redirect } from 'react-router-dom';
 
 
 function App() {
   return (
-    <BrowserRouter >
+    <HashRouter >
       <NavHeader />
       <Switch  >
         <Route path="/home">
@@ -19,7 +19,7 @@ function App() {
         </Route>
         <Redirect from="/" to="/home" />
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
