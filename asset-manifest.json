@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1f941e12.css",
-    "main.js": "/static/js/main.5c9b7ecf.js",
+    "main.js": "/static/js/main.5ef42280.js",
     "static/js/453.1fda7c8a.chunk.js": "/static/js/453.1fda7c8a.chunk.js",
     "static/media/fried_rice.jpg": "/static/media/fried_rice.3e6b48627b51e5a9668b.jpg",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
     "main.1f941e12.css.map": "/static/css/main.1f941e12.css.map",
-    "main.5c9b7ecf.js.map": "/static/js/main.5c9b7ecf.js.map",
+    "main.5ef42280.js.map": "/static/js/main.5ef42280.js.map",
     "453.1fda7c8a.chunk.js.map": "/static/js/453.1fda7c8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f941e12.css",
-    "static/js/main.5c9b7ecf.js"
+    "static/js/main.5ef42280.js"
   ]
 }
